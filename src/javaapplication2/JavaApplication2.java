@@ -16,7 +16,7 @@ public class JavaApplication2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        float first = 1.5f;
+        float first = 2.5f;
         float second = 2.0f;
 
         float product = first * second;
